@@ -38,8 +38,10 @@ Using Excel Pivot Tables, I analyzed the clean data from four different perspect
 The final insights and visualizations were compiled into a single dashboard sheet for a clear, at-a-glance summary for stakeholders.
 
 
-![Audio Sales Dashboard](Refined Data & Analysis/dashboard_key_insights.jpg)
-![Charts Analysis](Refined Data & Analysis/Visualization/charts1.jpg)
+![Audio Sales Dashboard](Refined_Data_and_Analysis\dashboard_key_insights.jpg)
+![Charts Analysis](Refined_Data_and_Analysis\Visualization\charts1.jpg)
+![Charts Analysis](Refined_Data_and_Analysis\Visualization\charts2.jpg)
+![Charts Analysis](Refined_Data_and_Analysis\Visualization\chart3.jpg)
 
 ---
 
