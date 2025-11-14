@@ -41,7 +41,7 @@ The final insights and visualizations were compiled into a single dashboard shee
 ![Audio Sales Dashboard](Refined_Data_and_Analysis/dashboard_key_insights.jpg)
 ![Charts Analysis](Refined_Data_and_Analysis/Visualization/charts1.jpg)
 ![Charts Analysis](Refined_Data_and_Analysis/Visualization/charts2.jpg)
-![Charts Analysis](Refined_Data_and_Analysis/Visualization/chart3.jpg)
+![Charts Analysis](Refined_Data_and_Analysis/Visualization/Chart3.jpg)
 
 ---
 
