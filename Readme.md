@@ -37,7 +37,7 @@ Using Excel Pivot Tables, I analyzed the clean data from four different perspect
 ## 4. Final Dashboard
 The final insights and visualizations were compiled into a single dashboard sheet for a clear, at-a-glance summary for stakeholders.
 
-![Audio Sales Dashboard](dashboard.png)
+![Audio Sales Dashboard](dashboard_key_insights.png)
 
 ---
 
